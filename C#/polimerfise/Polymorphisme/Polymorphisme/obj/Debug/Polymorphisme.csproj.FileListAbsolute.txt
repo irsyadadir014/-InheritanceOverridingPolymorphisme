@@ -1,0 +1,6 @@
+D:\KULIAH ADI UNESA\SEMESTER 3\PBO\TGS 2\C#\polimerfise\Polymorphisme\Polymorphisme\bin\Debug\Polymorphisme.exe.config
+D:\KULIAH ADI UNESA\SEMESTER 3\PBO\TGS 2\C#\polimerfise\Polymorphisme\Polymorphisme\bin\Debug\Polymorphisme.exe
+D:\KULIAH ADI UNESA\SEMESTER 3\PBO\TGS 2\C#\polimerfise\Polymorphisme\Polymorphisme\bin\Debug\Polymorphisme.pdb
+D:\KULIAH ADI UNESA\SEMESTER 3\PBO\TGS 2\C#\polimerfise\Polymorphisme\Polymorphisme\obj\Debug\Polymorphisme.csproj.CoreCompileInputs.cache
+D:\KULIAH ADI UNESA\SEMESTER 3\PBO\TGS 2\C#\polimerfise\Polymorphisme\Polymorphisme\obj\Debug\Polymorphisme.exe
+D:\KULIAH ADI UNESA\SEMESTER 3\PBO\TGS 2\C#\polimerfise\Polymorphisme\Polymorphisme\obj\Debug\Polymorphisme.pdb

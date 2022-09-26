@@ -1,0 +1,6 @@
+D:\KULIAH ADI UNESA\SEMESTER 3\PBO\TGS 2\C#\overriding\Overriding\Overriding\bin\Debug\Overriding.exe.config
+D:\KULIAH ADI UNESA\SEMESTER 3\PBO\TGS 2\C#\overriding\Overriding\Overriding\bin\Debug\Overriding.exe
+D:\KULIAH ADI UNESA\SEMESTER 3\PBO\TGS 2\C#\overriding\Overriding\Overriding\bin\Debug\Overriding.pdb
+D:\KULIAH ADI UNESA\SEMESTER 3\PBO\TGS 2\C#\overriding\Overriding\Overriding\obj\Debug\Overriding.csproj.CoreCompileInputs.cache
+D:\KULIAH ADI UNESA\SEMESTER 3\PBO\TGS 2\C#\overriding\Overriding\Overriding\obj\Debug\Overriding.exe
+D:\KULIAH ADI UNESA\SEMESTER 3\PBO\TGS 2\C#\overriding\Overriding\Overriding\obj\Debug\Overriding.pdb
